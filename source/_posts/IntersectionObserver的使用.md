@@ -123,6 +123,8 @@ function handleLazyBG () {
   }
 }
 ```
+效果图：
+![懒加载效果图](https://i.loli.net/2021/08/31/56eoHcd3tz4EVqS.gif)
 
 
 ## 注意点
